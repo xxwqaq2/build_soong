@@ -237,6 +237,7 @@ com\.nothing
 com\.nothing\..*
 
 # OPLUS adds
+com\.color\.inner\.view
 com\.oplus\..*
 com\.thundersoft\..*
 net.oneplus.*
